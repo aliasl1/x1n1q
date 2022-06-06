@@ -1,0 +1,17 @@
+.flex{
+  display: flex;
+  text-align: center;
+  padding: 40px;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+}
+.div {
+  text-align: center;
+  background-color:tan;
+}
+.flex1{
+  flex:1;
+}
+/* .head */
